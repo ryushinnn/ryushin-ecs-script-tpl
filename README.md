@@ -1,0 +1,1 @@
+# ryushin ecs script template

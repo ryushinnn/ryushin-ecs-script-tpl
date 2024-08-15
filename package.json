@@ -1,0 +1,10 @@
+{
+  "name": "com.ryushin.ryushin-ecs-script-tpl",
+  "version": "0.1.0",
+  "displayName": "Ryushin ECS Script Template",
+  "description": "This is the collection of ECS script templates.",
+  "author": {
+    "name": "Le Duy Tien",
+    "email": "liw140402@gmail.com"
+  }
+}
